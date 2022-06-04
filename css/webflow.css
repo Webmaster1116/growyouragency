@@ -1827,3 +1827,17 @@ textarea.w-select {
 #hidden-container {
   display: block !important;
 }
+.signup-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.signup-btn a {
+  text-align: center;
+}
+.bold-text-29 {
+  color: #000 !important;
+}
+.sales-page-button-copy {
+  text-align: center;
+}
