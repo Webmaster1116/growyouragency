@@ -704,6 +704,9 @@ textarea.w-select {
   }
 }
 @media screen and (max-width: 479px) {
+  .paragraph-56 {
+    font-size: 14px !important;
+  }
   .w-container {
     max-width: none;
   }
