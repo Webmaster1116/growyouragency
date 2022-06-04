@@ -706,6 +706,13 @@ textarea.w-select {
 @media screen and (max-width: 479px) {
   .paragraph-56 {
     font-size: 14px !important;
+    font-weight: 400 !important;
+  }
+  .paragraph-56-copy {
+    font-size: 20px !important;
+  }
+  .section-25 {
+    padding-bottom: 30px !important;
   }
   .w-container {
     max-width: none;
