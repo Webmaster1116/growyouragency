@@ -11395,6 +11395,7 @@ body {
   }
 
   .section-35 {
+    padding-top: 40px;
     padding-bottom: 40px;
   }
 
@@ -11585,6 +11586,12 @@ body {
 
   .image-46 {
     width: 75px;
+  }
+
+  .section-27,
+  .section-31 {
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .div-block-65 {
