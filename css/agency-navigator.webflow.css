@@ -6459,6 +6459,7 @@ body {
 
 .paragraph-33.height {
   line-height: 27px;
+  font-weight: 300 !important;
 }
 
 .paragraph-33.black {
@@ -7871,6 +7872,7 @@ body {
   font-size: 18px;
   line-height: 24px;
   text-align: center;
+  font-weight: 300 !important;
 }
 
 .paragraph-56-copy {
